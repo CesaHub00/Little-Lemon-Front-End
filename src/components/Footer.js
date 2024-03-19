@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+
 function Footer() {
     return (
       <>
@@ -26,5 +27,5 @@ function Footer() {
       </>
     );
   }
-  
+
   export default Footer;
