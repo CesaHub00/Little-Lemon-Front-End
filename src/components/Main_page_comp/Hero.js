@@ -5,8 +5,8 @@ function Hero() {
         <section className="hero">
           <div className="hero-content">
             <div className="hero-desc">
-              <p className="title">Little Lemon</p>
-              <p className="subtitle">Chicago</p>
+              <h2>Little Lemon</h2>
+              <h3>Chicago</h3>
               <p className="desc">We are a family owned Mediterranean restaurant, 
                 focused on traditional recipes served with a modern twist.</p>
               <Link to="/booking" >

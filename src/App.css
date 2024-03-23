@@ -36,3 +36,77 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+body{
+  width: 100%;
+  margin: 0 auto;
+}
+
+form, .confirm{
+  padding: 10px 13%;
+}
+
+
+/* nav style */
+
+nav {
+  padding: 10px 13%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(114, 211, 114);
+}
+
+nav ul :Link {
+  display: inline-block;
+  padding: 1em;
+  color: black;
+}
+
+
+/* footer style */
+
+footer {
+  padding: 10px 13%;
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  background-color: rgb(114, 211, 114);
+}
+
+footer ul{
+  display: flex;
+  flex-direction: column;
+}
+
+#contact {
+  list-style-type: none;
+}
+
+
+/* home style */
+
+/* hero style */
+
+.hero {
+  display: flex;
+  background-color: aquamarine;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  padding: 10px 13%;
+}
+
+.hero h2{
+  color: gold;
+  font-size: 40px;
+}
+
+.hero h3{
+  font-size: 25px ;
+}
