@@ -46,7 +46,7 @@ function BookingForm(props) {
                   <option>Anniversary</option>
                 </select>
               </div>
-              <div className="btnReceive">
+              <div className="receive">
                 <input aria-label="On Click" type={"submit"} value={"Make Your Reservation"}></input>
               </div>
             </fieldset>
