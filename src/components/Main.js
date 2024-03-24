@@ -1,7 +1,7 @@
 import Booking from './Booking';
 import Home from './Home';
 import ConfirmedBooking from './Confirmed_Booking';
-import { BrowserRouter, Route, Routes, useNavigate } from 'react-router-dom';
+import { Route, Routes, useNavigate } from 'react-router-dom';
 import { useReducer } from 'react';
 
 function Main() {
