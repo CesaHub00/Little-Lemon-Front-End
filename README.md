@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# **Little Lemon project**
+End of the certificate course [*Meta Front-End Developer*]((https://www.coursera.org/professional-certificates/meta-front-end-developer)) from Coursera.
+
+
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
