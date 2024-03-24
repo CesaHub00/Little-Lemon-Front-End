@@ -48,7 +48,6 @@ function Main() {
   }
 
   return (
-    <>
       <main className="main">
         <Routes>
           <Route path="/" element={<Home />}/>
@@ -56,7 +55,6 @@ function Main() {
           <Route path="/confimed" element={<ConfirmedBooking />}/>
         </Routes>
       </main>
-    </>
   );
 }
   export default Main;
