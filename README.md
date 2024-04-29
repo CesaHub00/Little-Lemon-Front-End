@@ -4,7 +4,7 @@ End of Coursera's [*Meta Front-End Developer*](https://www.coursera.org/professi
 The main goal is to build a table reservation page for the Little Lemon restaurant website. 
 
 On the Main page there will be:
-- navigation and a footer section, with the links to the other pages and the information on the restaurant;
+- navigation and footer section, with the links to the other pages and the information on the restaurant;
 - specials section, with weekly special offers.
   
 On the booking page there will be a form with 4 required fields:
@@ -15,7 +15,7 @@ On the booking page there will be a form with 4 required fields:
 
 Once all the fields have been correctly filled in, by clicking on the reserve button the string "Booking has been confirmed!" will appear.
 
-**Note: only the Home page, Boking page and the Confirm page are implemented; the About, Menu, Order Online and Login pages are hyperlink placeholders.**
+**Note: only the Home page, Boking page and the Confirm page are implemented; the About, Menu, Order Online and Login pages are placeholders.**
 
 
 ---
@@ -30,10 +30,9 @@ In the project directory, you can run:
 #### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 #### `npm test`
 
